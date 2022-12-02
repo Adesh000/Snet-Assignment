@@ -1,0 +1,27 @@
+.list{
+    background-color: #f7dcba;
+    padding: 5px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10px 0;
+}
+h3{
+    text-align: center;
+}
+.user-detail{
+    width: 450px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.list > button {
+    background-color: red;
+    cursor: pointer;
+    border: none;
+    color: #fff;
+    padding: 1px 5px;
+    border-radius: 5px;
+}
